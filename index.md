@@ -1,4 +1,4 @@
-#Welcome to my Web Mapping Portfolio!
+Welcome to my Web Mapping Portfolio!
 Hi, I'm Gretchen.
 This is a very basic first page for my website, which I will be building as part of the GIS course.
 Here are a few things I might include later:
